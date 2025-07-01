@@ -30,7 +30,7 @@ Check it out here: [https://arpitk007.github.io/my-portfolio/](https://arpitk007
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name
+git clone https://github.com/arpitk007/my-portfolio.git
 
 # Navigate into the folder
 cd your-repo-name
