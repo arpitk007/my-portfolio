@@ -33,6 +33,6 @@ Check it out here: [https://arpitk007.github.io/my-portfolio/](https://arpitk007
 git clone https://github.com/arpitk007/my-portfolio.git
 
 # Navigate into the folder
-cd your-repo-name
+cd my-portfolio
 
 # Open index.html using a browser or Live Server
