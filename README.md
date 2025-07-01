@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This project showcases my web developm
 ---
 
 ## 🌐 Live Demo
-Check it out here: [https://your-portfolio-url.com](https://your-portfolio-url.com)
+Check it out here: [https://arpitk007.github.io/my-portfolio/](https://arpitk007.github.io/my-portfolio/)
 
 ---
 
